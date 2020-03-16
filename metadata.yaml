@@ -1,0 +1,27 @@
+_repo: Eleanor-Ormerod-Ll-D-Economic-Entomologist-Autobiography-and-Correspondence_61597
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ormerod, Eleanor Anne
+    gutenberg_agent_id: '51510'
+    url: http://www.gutenberg.org/2009/agents/51510
+  editor:
+    agent_name: Wallace, Robert
+    birthdate: 1831
+    deathdate: 1899
+    gutenberg_agent_id: '33141'
+    url: http://www.gutenberg.org/2009/agents/33141
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Wallace_%28Edinburgh_MP%29
+description: ''
+gutenberg_issued: '2020-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61597'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Eleanor Ormerod, Ll. D., Economic Entomologist : Autobiography and Correspondence'
+url: http://www.gutenberg.org/ebooks/61597
